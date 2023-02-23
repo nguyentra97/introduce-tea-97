@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "../Dự án 1"
+        },
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "liveServer.settings.port": 5501,
+        "liveServer.settings.multiRootWorkspaceName": "Du an 2"
+    }
+}
